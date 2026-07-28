@@ -6,7 +6,7 @@ res.send(`
 <!DOCTYPE html>
 <html>
 <head>
-<title>CI/CD Pipeline - Pranit</title>
+<title>CI/CD Pipeline - PC</title>
 
 <style>
 
