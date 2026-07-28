@@ -187,7 +187,7 @@ line-height:35px;
 
 <div class="footer">
 
-👨‍💻 CI/CD Project Done by <span style="color:#FFD700;">Pranit Tambade</span>
+👨‍💻 CI/CD Project Done by <span style="color:#FFD700;">Prasad </span>
 
 <br><br>
 
